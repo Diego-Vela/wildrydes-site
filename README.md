@@ -128,3 +128,11 @@ Here is the code used to test the Lambda function:
 }
 ```
 
+### Personal Notes
+AWS services used in this tutorial
+
+- DynamoDB
+- Lambda
+- Cognito
+- AWS Amplify
+
